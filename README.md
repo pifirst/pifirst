@@ -1,15 +1,5 @@
 [![Header](https://media-exp1.licdn.com/dms/image/C4E16AQGKtT3YpSWJhQ/profile-displaybackgroundimage-shrink_200_800/0/1625682647203?e=1643846400&v=beta&t=0ltPGbOOuh-R0ZyZ3FgvnTO_M9VvpGKNBImbY2rQeh0)](https://www.youtube.com/channel/UCbWH0lSyaTD0Z7fhy2C9lBw)
 
-## I'm a beginner Youtuber and Software Engineer
-
-### Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
-- [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
-- [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
-- [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
-- [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
-<!-- YOUTUBE:END -->
 
 
 ### Follow Me:
