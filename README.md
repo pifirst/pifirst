@@ -1,4 +1,4 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4E16AQGKtT3YpSWJhQ/profile-displaybackgroundimage-shrink_200_800/0/1625682647203?e=1643846400&v=beta&t=0ltPGbOOuh-R0ZyZ3FgvnTO_M9VvpGKNBImbY2rQeh0)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://media-exp1.licdn.com/dms/image/C4E16AQGKtT3YpSWJhQ/profile-displaybackgroundimage-shrink_200_800/0/1625682647203?e=1643846400&v=beta&t=0ltPGbOOuh-R0ZyZ3FgvnTO_M9VvpGKNBImbY2rQeh0)](https://www.youtube.com/channel/UCbWH0lSyaTD0Z7fhy2C9lBw)
 
 ## I'm a beginner Youtuber and Software Engineer
 
